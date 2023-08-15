@@ -1,0 +1,22 @@
+body {
+    margin: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.card:hover {
+    font-size: 15px;
+}
+.card { 
+    background: #f3b700;
+    width: 375px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 5px solid #f63e02;
+    border-right: 5px solid #f63e02;
+    box-shadow: 5px 5px;
+}
+img {
+    width: 150px;
+}
